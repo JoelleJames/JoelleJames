@@ -1,6 +1,6 @@
 ## Hi, I’m Joelle :smiley:
 - :mortar_board: I'm a graduate in MSc Computer Science
-- :books: I’m currently learning `ASP.net`
+- :books: I’m currently making an app with `Kotlin`
 - :computer: I’m looking for a job in software development
 - :postbox: You can reach out to me on [LinkedIn](https://www.linkedin.com/in/joelle-james)
 
