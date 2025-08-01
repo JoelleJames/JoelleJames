@@ -1,7 +1,7 @@
 ## Hi, I’m Joelle :smiley:
-- :mortar_board: I'm a graduate in MSc Computer Science
-- :books: I’m currently making an app with `Kotlin`
-- :computer: I'm working as a Software Engineer
+- :computer: Software Engineer with 3+ years experience
+- :mortar_board: MSc Computer Science
+- :books: I’m currently experimenting with c# and supporting tools
 - :postbox: You can reach out to me on [LinkedIn](https://www.linkedin.com/in/joelle-james)
 
 <br />
