@@ -1,7 +1,7 @@
 ## Hi, I’m Joelle :smiley:
 - :computer: Software Engineer with 3+ years experience
 - :mortar_board: MSc Computer Science
-- :books: I’m currently working on repo "Sticky_Notes_Block_App"
+- :books: I’m currently working on repo [Sticky_Notes_Block_App](https://github.com/JoelleJames/Sticky_Notes_Block_App)
 - :postbox: You can reach out to me on [LinkedIn](https://www.linkedin.com/in/joelle-james)
 
 <br />
